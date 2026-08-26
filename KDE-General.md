@@ -1,5 +1,20 @@
 # KDE General Settings
 
+### Settings
+
+- Window Management
+  - Task Switcher
+    - Visualization: Cover Switch
+  - Desktop Effects
+    - Blur: Enabled
+    - Translunecy: Enabled
+    - Wobbly Windows: Enabled
+  - KWin Scripts
+    - KZones
+      - General
+        - Enable Zone Overlay: Disabled
+        - Layouts: [KZones-Layouts](KZones-Layouts.txt)
+
 ### Panel Widgets
 
 - Plasma Gnome Pager
