@@ -1,1 +1,1 @@
-# KDESettings
+# PCSettings
